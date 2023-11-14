@@ -1,3 +1,5 @@
 # Youtube clone v2
 
-![HooBank](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)
+![youtube](https://github.com/yoseflakew25/youtube_clone-v2/blob/main/screenshot/Screenshot1.png)
+![youtube](https://github.com/yoseflakew25/youtube_clone-v2/blob/main/screenshot/Screenshot2.png)
+![youtube](https://github.com/yoseflakew25/youtube_clone-v2/blob/main/screenshot/Screenshot3.png)
